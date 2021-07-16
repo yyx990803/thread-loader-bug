@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "thread-loader": "^3.0.4",
+    "webpack": "^5.45.1",
+    "webpack-cli": "^4.7.2"
+  },
+  "scripts": {
+    "build": "webpack"
+  }
+}
